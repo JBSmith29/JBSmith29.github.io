@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="uft-8">
+      <title>Project: Unit 1 Applied Assignment</title>
+    </head>
+    <body>
+    
+        <h1> Jacob Smith - Unit 1</h1>
+    
+        <p> This is my index.html page. I plan to build my site to specification laid out in the assignment overview. Learning various tips and tricks throughout the semesters and other learning materials to make the best site I can make. There will be a lot of re-designs and going back through previous versions to update them with new or updated processes that have been learned through out the course. I am looking forward to learning the ins and outs of the web programming and try to utilize them in my current and future job roles.
+        
+        <img src="https://i.pinimg.com/564x/9c/d5/5c/9cd55c9228ab0958a718806c78c47561.jpg" alt="Very Nice" width="300" />
+    
+    </body>
+  </html>
