@@ -1,0 +1,53 @@
+html {
+	background-image: guns.jfif;
+}
+
+header {
+  border: 1px solid black;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  margin: 0 auto;
+  background-color: grey;
+}
+
+body {
+  width: 80%;
+  margin: 0px auto;
+  opacity: .8;
+}
+
+section {
+  display: block;
+  border: 1px solid black;
+  border-radius: 20px;
+  background-color: grey;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  width: 100%;
+}
+
+aside, object {
+  display: inline-block;
+  vertical-align: top;
+  word-wrap: break-word;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+object {
+  text-align: left;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+
+}
+
+aside {
+  margin-left: 20px;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  height: 2em;
+}
