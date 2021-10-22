@@ -58,3 +58,11 @@ footer {
   text-align: center;
   height: 2em;
 }
+
+p {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
