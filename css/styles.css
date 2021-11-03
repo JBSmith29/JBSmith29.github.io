@@ -1,0 +1,28 @@
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    background-image: url("../img/wichita.jpeg");
+    background-size: cover;
+    /*    body {
+    background-image: url("../img/background.png");
+    display: table;
+    height: 100%;
+    position: relative;
+    width: 100%;
+}*/
+    /* For Desktops */
+    @media only screen and (min-width: 768px) {
+        .landing-text h1 {
+            font-size: 400%;
+            font-weight: 700%;
+        }
+    }
+
+
+
+
