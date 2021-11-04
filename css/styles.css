@@ -8,6 +8,7 @@ body {
     height: 100%;
     background-image: url("../img/wichita.jpeg");
     background-size: cover;
+     background-repeat: no-repeat;
     /*    body {
     background-image: url("../img/background.png");
     display: table;
